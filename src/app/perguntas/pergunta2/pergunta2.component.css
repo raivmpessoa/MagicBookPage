@@ -1,0 +1,18 @@
+img {
+    width: 450px;
+    height: 300px;
+    margin-left: 35%;
+}
+
+text {
+    font-style:italic;
+    margin-left: 25%;
+}
+
+.body {
+    background-color:lightgrey;
+}
+
+button {
+    color: deeppink;
+}

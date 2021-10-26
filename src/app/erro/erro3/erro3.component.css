@@ -1,0 +1,18 @@
+img {
+    margin-left: 31%
+}
+
+.body {
+    background-color: #FFC0CB;
+}
+
+h1 {
+    color: firebrick;
+}
+
+button {
+    background-color: deeppink;
+    text-decoration: floralwhite;
+    margin-left: 20%;
+    margin-right: 20%;
+}

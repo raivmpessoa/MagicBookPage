@@ -1,0 +1,17 @@
+img {
+    
+    margin-left: 33%;
+}
+
+text {
+    font-style:italic;
+    margin-left: 25%;
+}
+
+.body {
+    background-color:lightgrey;
+}
+
+button {
+    color: deeppink;
+}

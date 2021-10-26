@@ -3,6 +3,10 @@ div {
 }
 
 .body {
-    background-color: FFA8C5;
-  };
+    background-color: #FFC0CB;
+}
   
+.card-header {
+    background-color: deeppink;
+    margin-left: 0%;
+}

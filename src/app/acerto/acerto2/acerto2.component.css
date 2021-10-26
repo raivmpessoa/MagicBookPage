@@ -1,0 +1,18 @@
+img {
+    margin-left: 32%
+}
+
+.body {
+    background-color: #FFC0CB;
+}
+
+h1 {
+    color:forestgreen;
+}
+
+button {
+    background-color: deeppink;
+    text-decoration: floralwhite;
+    margin-left: 20%;
+    margin-right: 20%;
+}

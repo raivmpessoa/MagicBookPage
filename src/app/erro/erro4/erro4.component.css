@@ -1,0 +1,20 @@
+img {
+    width: 720px;
+    height: 450px;
+    margin-left: 27%
+}
+
+.body {
+    background-color: #FFC0CB;
+}
+
+h1 {
+    color: firebrick;
+}
+
+button {
+    background-color: deeppink;
+    text-decoration: floralwhite;
+    margin-left: 20%;
+    margin-right: 20%;
+}
